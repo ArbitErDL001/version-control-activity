@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Fullname: Dale Maceda
+=======
+Fullname: Dale Maceda - Im a computer science student who enjoys solitude and music
+>>>>>>> f24b28f (Added fullname and description)
